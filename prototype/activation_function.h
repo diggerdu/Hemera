@@ -21,3 +21,8 @@ double sigmoid_g(double x)
 {
     return 4/(1+exp(-x))-2;
 }
+
+double relu(double x)
+{
+	return x > 0 ? x : 0;
+}
