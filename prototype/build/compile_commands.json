@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/diggerdu/Hemera/prototype/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/prototype.dir/main.cpp.o -c /home/diggerdu/Hemera/prototype/main.cpp",
+  "file": "/home/diggerdu/Hemera/prototype/main.cpp"
+}
+]
