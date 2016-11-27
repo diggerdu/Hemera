@@ -6,25 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/diggerdu/Hemera/prototype/activation_function.h
-cmath
--
-
 /home/diggerdu/Hemera/prototype/main.cpp
 iostream
 -
 vector
 -
-network.h
-/home/diggerdu/Hemera/prototype/network.h
-
-/home/diggerdu/Hemera/prototype/network.h
-vector
--
-cstdlib
--
-cassert
--
-activation_function.h
-/home/diggerdu/Hemera/prototype/activation_function.h
 
