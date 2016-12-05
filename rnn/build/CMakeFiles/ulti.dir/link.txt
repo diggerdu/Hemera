@@ -1,0 +1,2 @@
+/usr/bin/ar qc libulti.a  CMakeFiles/ulti.dir/ulti.cpp.o
+/usr/bin/ranlib libulti.a

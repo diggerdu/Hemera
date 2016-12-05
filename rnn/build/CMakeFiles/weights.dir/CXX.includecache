@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diggerdu/rnn/weights.cpp
+weights.h
+/home/diggerdu/rnn/weights.h
+
+/home/diggerdu/rnn/weights.h
+stdio.h
+-
+

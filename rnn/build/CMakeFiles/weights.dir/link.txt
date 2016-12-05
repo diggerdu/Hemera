@@ -1,0 +1,2 @@
+/usr/bin/ar qc libweights.a  CMakeFiles/weights.dir/weights.cpp.o
+/usr/bin/ranlib libweights.a

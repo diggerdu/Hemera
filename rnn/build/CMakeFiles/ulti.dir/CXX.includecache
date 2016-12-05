@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diggerdu/rnn/ulti.cpp
+ulti.h
+/home/diggerdu/rnn/ulti.h
+
+/home/diggerdu/rnn/ulti.h
+vector
+-
+algorithm
+-
+

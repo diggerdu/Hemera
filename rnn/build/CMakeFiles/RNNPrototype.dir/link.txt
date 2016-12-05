@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/RNNPrototype.dir/main.cpp.o  -o RNNPrototype -rdynamic libnetwork.a libweights.a libulti.a 

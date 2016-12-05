@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diggerdu/rnn/network.cpp
+network.h
+/home/diggerdu/rnn/network.h
+
+/home/diggerdu/rnn/network.h
+vector
+-
+algorithm
+-
+cstdlib
+-
+cassert
+-
+cmath
+-
+

@@ -1,0 +1,10 @@
+/home/diggerdu/rnn/build/CMakeFiles/install.dir
+/home/diggerdu/rnn/build/CMakeFiles/list_install_components.dir
+/home/diggerdu/rnn/build/CMakeFiles/rebuild_cache.dir
+/home/diggerdu/rnn/build/CMakeFiles/edit_cache.dir
+/home/diggerdu/rnn/build/CMakeFiles/install/local.dir
+/home/diggerdu/rnn/build/CMakeFiles/install/strip.dir
+/home/diggerdu/rnn/build/CMakeFiles/network.dir
+/home/diggerdu/rnn/build/CMakeFiles/RNNPrototype.dir
+/home/diggerdu/rnn/build/CMakeFiles/ulti.dir
+/home/diggerdu/rnn/build/CMakeFiles/weights.dir
