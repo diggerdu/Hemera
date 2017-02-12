@@ -26,7 +26,7 @@ int main()
 	
 	std::vector<double> Inputs;
 	for (size_t i = 0; i < SIZE[0]; i++)
-	{
+    {
 		Inputs.push_back(1);
 	}
 	//std::cout<<Inputs.size()<<std::endl;
